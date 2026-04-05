@@ -17,9 +17,9 @@ This project uses RealityKit and ARKit to place a USDZ 3D model (a robot) onto d
 
 ## 📺 Watch on YouTube
 
-> 📺 **[Watch the tutorial on YouTube](https://www.youtube.com/@NoahDoesCoding97)** — subscribe for weekly SwiftUI content.
->
-> ⚠️ *Direct video link coming soon.*
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/gq88Lw3KMJ8)
+
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
 
 ---
 
@@ -56,3 +56,5 @@ ARKit requires a real iPhone or iPad — it does not work in the Simulator.
 - Xcode 15+
 - iOS 17+
 - Real device with ARKit support (iPhone 6s or later)
+
+📺 [Watch the guide on YouTube](https://youtu.be/gq88Lw3KMJ8)
